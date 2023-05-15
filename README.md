@@ -1,7 +1,7 @@
 # E-sedra
 Piattaforma di progettazione partecipata che consente di far emergere i bisogni e rilevare eventuali problemi della Comunità scolastica per costruire un’Offerta formativa plasmata sulle aspettative di tutti gli attori della scuola.
 
-E-sedra è iul frutto di un progetto di innovazione civica che coinvolge tutta la comunità scolastica dell’IIS “Lombardi” di Vercelli e il territorio con l'obiettivo di progettare nuovi strumenti o nuovi organismi per migliorare la partecipazione di tutte le componenti alla gestione dell’Istituto, oppure nuove modalità di gestione di quelli esistenti.
+E-sedra è il frutto di un progetto di innovazione civica che coinvolge tutta la comunità scolastica dell’IIS “Lombardi” di Vercelli e il territorio con l'obiettivo di progettare nuovi strumenti o nuovi organismi per migliorare la partecipazione di tutte le componenti alla gestione dell’Istituto, oppure nuove modalità di gestione di quelli esistenti.
 A supporto di questi nuovi strumenti, gli studenti e i docenti hanno realizzato una piattaforma informatica che consenta di supportare un lavoro di progettazione partecipata e di co-progettazione, che, implementata, sarà a servizio delle Istituzioni del territorio per la gestione di propri progetti (es. Consiglio Comunale dei Ragazzi) e per la progettazione partecipata di nuovi eventi e strutture, con il coinvolgimento dei giovani.
 Una rivoluzione nell’educazione alla cittadinanza che metteremo a disposizione di tutti per diffondere la cultura della democrazia e della partecipazione!
 

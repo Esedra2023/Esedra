@@ -22,6 +22,6 @@ La piattaforma consentirà:
 - la creazione di una graduatoria finale delle proposte che potranno essere inserite nell'aggiornamento annuale del PTOF.
 
 # Informazioni
-Per informazioni [Itaca Vercelli](https://www.itacavercelli.it/omnicrazia/) oppure scrivi a [esedra2023@gmail.com](https://www.itacavercelli.it/omnicrazia/)
+Per informazioni [Itaca Vercelli](https://www.itacavercelli.it/omnicrazia/) oppure scrivi a esedra2023@gmail.com
 # Download
 Per il download dell'applicazione e dei manuali d'uso [clicca qui](https://www.itacavercelli.it/omnicrazia/)
